@@ -1,0 +1,24 @@
+C:\Users\Navegador\source\repos\PrimerParcial\Business\bin\Debug\Business.dll
+C:\Users\Navegador\source\repos\PrimerParcial\Business\bin\Debug\Business.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\Business\bin\Debug\DAL.dll
+C:\Users\Navegador\source\repos\PrimerParcial\Business\bin\Debug\Entity.dll
+C:\Users\Navegador\source\repos\PrimerParcial\Business\bin\Debug\DAL.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\Business\bin\Debug\DAL.dll.config
+C:\Users\Navegador\source\repos\PrimerParcial\Business\bin\Debug\Entity.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\PrimerParcial\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\PrimerParcial\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Navegador\source\repos\PrimerParcial\Business\obj\Debug\Business.dll
+C:\Users\Navegador\source\repos\PrimerParcial\Business\obj\Debug\Business.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\bin\Debug\Business.dll
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\bin\Debug\Business.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\bin\Debug\DAL.dll
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\bin\Debug\Entity.dll
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\bin\Debug\DAL.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\bin\Debug\DAL.dll.config
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\bin\Debug\Entity.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\obj\Debug\Business.csproj.CopyComplete
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\obj\Debug\Business.dll
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\Business\obj\Debug\Business.pdb

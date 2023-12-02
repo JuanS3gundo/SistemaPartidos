@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\bin\Debug\DAL.dll.config
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\bin\Debug\DAL.dll
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\bin\Debug\DAL.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\bin\Debug\Entity.dll
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\bin\Debug\Entity.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\obj\Debug\DAL.dll
+C:\Users\Navegador\source\repos\PrimerParcial\DAL\obj\Debug\DAL.pdb

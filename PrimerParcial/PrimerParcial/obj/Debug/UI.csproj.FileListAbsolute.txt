@@ -1,0 +1,37 @@
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\Business.dll
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\DAL.dll
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\Entity.dll
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\Business.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\DAL.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\DAL.dll.config
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\bin\Debug\Entity.pdb
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Form1.resources
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\Navegador\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\Business.dll
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\DAL.dll
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\Entity.dll
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\Business.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\DAL.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\DAL.dll.config
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\bin\Debug\Entity.pdb
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Form1.resources
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.Properties.Resources.resources
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.GenerateResource.cache
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\UI.csproj.CopyComplete
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\FACULTAD\SEGUNDO CUATRIMESTRE\PROGRAMACION\PrimerParcialGiribet\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
