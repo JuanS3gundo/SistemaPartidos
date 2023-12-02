@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Transactions;
 using System.Windows.Documents;
 
 namespace Business
@@ -36,7 +37,11 @@ namespace Business
             {
                 throw new Exception("debe haber algun deporte");
             }
-            partidoDao.CargarPartidos(AgregoPartido);
+            using(var transaction = new TransactionScope())
+            {  
+                    partidoDao.CargarPartidos(AgregoPartido);
+                    transaction.Complete(); 
+            }   
         }
         public List<Partido> GetPartidos()
         {

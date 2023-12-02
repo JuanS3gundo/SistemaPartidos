@@ -32,6 +32,8 @@ namespace DAL
                                 partido.IdDeporte = Convert.ToInt32(reader["IdDeporte"]);
                                 partido.EquipoLocal = Convert.ToString(reader["EquipoLocal"]);
                                 partido.EquipoVisitante = Convert.ToString(reader["EquipoVisitante"]);
+                                partido.MarcadorLocal = Convert.ToInt32(reader["MarcadorLocal"]);   
+                                partido.MarcadorVisitante = Convert.ToInt32(reader["MarcadorVisitante"]);   
                                 partidos.Add(partido);
                             }
                             return partidos;
